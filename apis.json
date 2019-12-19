@@ -1,0 +1,45 @@
+{
+    "name": "MTA",
+    "description": "The official Twitter feed of the NY Metropolitan Transportation Authority. For service alerts\/customer service, follow @NYCTSubway, @NYCTBus, @LIRR, @MetroNorth",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/624-mta.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "nyc"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mta\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MTA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/624-mta.jpg",
+            "humanURL": "http:\/\/www.mta.info\/developers\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mta-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mta.info\/developers\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/metropolitan-transportation-authority"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MTA"
+        }
+    ]
+}
